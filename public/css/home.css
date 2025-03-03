@@ -766,7 +766,7 @@
   justify-content: space-between;
 }
 
-.tv_wrapper .tv_production_boxes {
+.tv_wrapper .tv_product_boxes {
   width: 1300px;
   height: 452px;
 
@@ -774,7 +774,7 @@
   flex-direction: row;
 }
 
-.tv_production_boxes .tv_product_box {
+.tv_product_boxes .tv_product_box {
   width: 260px;
   height: 452px;
 
